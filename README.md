@@ -1,4 +1,4 @@
-[README (6).md](https://github.com/user-attachments/files/31764115/README.6.md)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:0f172a&height=200&section=header&text=SouzaDev&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
