@@ -11,7 +11,7 @@
 - 🔧 Cursando também **Técnico em Informática** no **IFSP Itapetininga**
 - 💻 Trabalhando com **Java + Spring Boot**, HTML/CSS e projetos com **Arduino**
 - 🌱 Aprendendo continuamente através de projetos práticos e tutoriais
-- 📫 Aberto a colaborações e trocas sobre desenvolvimento e eletrônica
+- 📫 Aberto a colaborações e trocas sobre desenvolvimento
 
 ## 🛠️ Projetos em destaque
 
