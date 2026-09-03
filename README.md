@@ -11,9 +11,9 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC
 - 🔧 Cursando também **Técnico em Informática** no **IFSP Itapetininga**
-- 💻 Trabalhando com **Java + Spring Boot**, HTML/CSS e projetos com **Arduino**
+- 💻 Trabalhando com **Java + Spring Boot**, HTML/CSS
 - 🌱 Aprendendo continuamente através de projetos práticos e tutoriais
-- 📫 Aberto a colaborações e trocas sobre desenvolvimento e eletrônica
+- 📫 Aberto a colaborações e trocas sobre desenvolvimento
 
 ## 🛠️ Projetos em destaque
 
@@ -21,7 +21,6 @@
 Aplicação de loja construída em Java Spring Boot, com camada de repositório usando `EntityManager` e queries SQL nativas.
 - CRUD completo com **Thymeleaf**
 - Repositórios: `Cupom`, `Usuario`, `Produto`
-- Uso de `EntityManager` e SQL nativo para acesso a dados
 
 ### 📈 Bolsa & Bolso (Site de Investimentos)
 Site estático para uma plataforma fictícia de investimentos, desenvolvido como projeto de documentação da FATEC.
@@ -40,7 +39,7 @@ Site estático para uma plataforma fictícia de investimentos, desenvolvido como
 ## 📫 Contato
 
 <!-- Adicione aqui seus links: LinkedIn, e-mail, etc. -->
-- LinkedIn: [João Souza](https://www.linkedin.com/in/jo%C3%A3o-souza-284750374/?locale=pt)
+- LinkedIn:(https://www.linkedin.com/in/jo%C3%A3o-souza-284750374/?locale=pt)
 - E-mail: joaoapedrorberoo@gmail.com
 
 <div align="center">
