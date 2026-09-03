@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/31763873/README.1.md)
+[README (2).md](https://github.com/user-attachments/files/31763960/README.2.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:0f172a&height=200&section=header&text=souzadev&fontSize=60&fontColor=00e5ff&animation=fadeIn&fontAlignY=35&desc=Dev%20em%20constru%C3%A7%C3%A3o%20%7C%20Java%20%C2%B7%20Spring%20Boot&descAlignY=55&descSize=18" />
@@ -11,9 +11,9 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC
 - 🔧 Cursando também **Técnico em Informática** no **IFSP Itapetininga**
-- 💻 Trabalhando com **Java + Spring Boot**, HTML/CSS
+- 💻 Trabalhando com **Java + Spring Boot**, HTML/CSS e projetos com **Arduino**
 - 🌱 Aprendendo continuamente através de projetos práticos e tutoriais
-- 📫 Aberto a colaborações e trocas sobre desenvolvimento
+- 📫 Aberto a colaborações e trocas sobre desenvolvimento e eletrônica
 
 ## 🛠️ Projetos em destaque
 
@@ -21,6 +21,7 @@
 Aplicação de loja construída em Java Spring Boot, com camada de repositório usando `EntityManager` e queries SQL nativas.
 - CRUD completo com **Thymeleaf**
 - Repositórios: `Cupom`, `Usuario`, `Produto`
+- Uso de `EntityManager` e SQL nativo para acesso a dados
 
 ### 📈 Bolsa & Bolso (Site de Investimentos)
 Site estático para uma plataforma fictícia de investimentos, desenvolvido como projeto de documentação da FATEC.
@@ -39,8 +40,15 @@ Site estático para uma plataforma fictícia de investimentos, desenvolvido como
 ## 📫 Contato
 
 <!-- Adicione aqui seus links: LinkedIn, e-mail, etc. -->
-- LinkedIn:(https://www.linkedin.com/in/jo%C3%A3o-souza-284750374/?locale=pt)
+- LinkedIn: [João Souza](https://www.linkedin.com/in/jo%C3%A3o-souza-284750374/?locale=pt)
 - E-mail: joaoapedrorberoo@gmail.com
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-souza-284750374/?locale=pt)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoapedrorberoo@gmail.com)
+
+</div>
 
 <div align="center">
 
