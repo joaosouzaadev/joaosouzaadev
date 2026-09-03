@@ -21,11 +21,6 @@ Aplicação de loja construída em Java Spring Boot, com camada de repositório 
 - Repositórios: `Cupom`, `Usuario`, `Produto`
 - Uso de `EntityManager` e SQL nativo para acesso a dados
 
-### 📈 Bolsa & Bolso (Site de Investimentos)
-Site estático para uma plataforma fictícia de investimentos, desenvolvido como projeto de documentação da FATEC.
-- Construído com **HTML e CSS puro**
-- Estética minimalista *dark fintech/terminal*, com as fontes **Space Grotesk** e **IBM Plex Mono**
-
 ## 🧰 Tecnologias e ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
