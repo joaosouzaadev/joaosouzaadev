@@ -9,7 +9,7 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC
 - 🔧 Cursando também **Técnico em Informática** no **IFSP Itapetininga**
-- 💻 Trabalhando com **Java + Spring Boot**, HTML/CSS e projetos com **Arduino**
+- 💻 Trabalhando com **Java + Spring Boot**, HTML/CSS
 - 🌱 Aprendendo continuamente através de projetos práticos e tutoriais
 - 📫 Aberto a colaborações e trocas sobre desenvolvimento
 
