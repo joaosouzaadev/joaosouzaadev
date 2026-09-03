@@ -1,9 +1,7 @@
-[README (5).md](https://github.com/user-attachments/files/31764094/README.5.md)
+[README (6).md](https://github.com/user-attachments/files/31764115/README.6.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:0f172a&height=200&section=header&text=SouzaDev&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+na+FATEC;Tecnico+em+Informatica+-+IFSP+Itapetininga;Java+%2B+Spring+Boot;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 </div>
 
