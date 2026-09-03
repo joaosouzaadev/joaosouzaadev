@@ -1,7 +1,7 @@
-[README.md](https://github.com/user-attachments/files/31763802/README.md)
+[README (1).md](https://github.com/user-attachments/files/31763869/README.1.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:0f172a&height=200&section=header&text=Souza&fontSize=60&fontColor=00e5ff&animation=fadeIn&fontAlignY=35&desc=Dev%20em%20constru%C3%A7%C3%A3o%20%7C%20Java%20%C2%B7%20Spring%20Boot&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:0f172a&height=200&section=header&text=souzadev&fontSize=60&fontColor=00e5ff&animation=fadeIn&fontAlignY=35&desc=Dev%20em%20constru%C3%A7%C3%A3o%20%7C%20Java%20%C2%B7%20Spring%20Boot&descAlignY=55&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+na+FATEC;Tecnico+em+Informatica+-+IFSP+Itapetininga;Java+%2B+Spring+Boot;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
@@ -40,8 +40,8 @@ Site estático para uma plataforma fictícia de investimentos, desenvolvido como
 ## 📫 Contato
 
 <!-- Adicione aqui seus links: LinkedIn, e-mail, etc. -->
-- LinkedIn:
-- E-mail:
+- LinkedIn: [João Souza](https://www.linkedin.com/in/jo%C3%A3o-souza-284750374/?locale=pt)
+- E-mail: joaoapedrorberoo@gmail.com
 
 <div align="center">
 
